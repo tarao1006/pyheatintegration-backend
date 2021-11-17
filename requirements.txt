@@ -1,0 +1,7 @@
+aiofiles
+fastapi
+matplotlib
+pandas
+pyheatintegration
+python-multipart
+uvicorn
