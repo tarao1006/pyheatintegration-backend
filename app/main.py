@@ -18,7 +18,7 @@ app = FastAPI()
 
 origins = [
     'http://localhost:3000',
-    'https://pyheatintegration.vercel.app/',
+    'https://pyheatintegration.vercel.app',
 ]
 
 app.add_middleware(
